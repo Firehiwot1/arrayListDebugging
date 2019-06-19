@@ -2,7 +2,7 @@ import java.util.ArrayList;
 public class ArrayListDebugging {
     public static void main(String [] args){
                 // Create an arraylist
-                ArrayList <String> alArrayList = new ArrayList<>();// change the data type and the name to string and alArrayList
+                ArrayList <String> alArrayList = new ArrayList<String>();// change the data type and the name to string and alArrayList
                 System.out.println("Initial size of alArrayList: " + alArrayList.size());
 
                 // Add elements to the arraylist
